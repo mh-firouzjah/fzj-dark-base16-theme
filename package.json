@@ -1,7 +1,8 @@
 {
-	"name": "fzj-dark-base16-theme",
-	"displayName": "fzj-dark-base16",
+	"name": "fzj-dark-theme",
+	"displayName": "fzj-dark",
 	"description": "A VSCode dark theme with italics thrown in for flair.",
+	"publisher": "MahdiFirouzjaah",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.55.0"
@@ -9,12 +10,21 @@
 	"categories": [
 		"Themes"
 	],
+	"author": {
+		"name": "Mahdi Firouzjaah",
+		"email": "mh.firouzjah@gmail.com",
+		"url": "https://www.linkedin.com/in/mahdi-firouzjaah/"
+	},
+	"repository": {
+		"url": "https://github.com/mh-firouzjaah/fzj-dark-base16-theme",
+		"type": "git"
+	},
 	"contributes": {
 		"themes": [
 			{
-				"label": "fzj dark base16",
+				"label": "fzj dark theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/fzj dark base16-color-theme.json"
+				"path": "./themes/fzj dark theme.json"
 			}
 		]
 	}
