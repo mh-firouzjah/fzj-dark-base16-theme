@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#221f22",
 		"editor.foreground": "#c8c5c5",
-		"editor.selectionBackground": "#363838",
+		"editor.selectionBackground": "#46494e",
 		"editor.lineHighlightBackground": "#303235",
 		"editor.findMatchBackground": "#3a5255",
 		"editorCursor.foreground": "#c8c5c5",
@@ -406,7 +406,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#c77868"
+				"foreground": "#cc6666"
 			}
 		},
 		{
@@ -415,7 +415,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b47568"
+				"foreground": "#cc6666"
 			}
 		},
 		{
@@ -424,7 +424,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#bd6d5d"
+				"foreground": "#cc6666"
 			}
 		},
 		{
@@ -433,7 +433,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C17E70"
+				"foreground": "#cc6666"
 			}
 		},
 		{

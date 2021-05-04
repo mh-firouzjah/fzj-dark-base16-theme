@@ -3,13 +3,14 @@
 	"displayName": "fzj-dark",
 	"description": "A VSCode dark theme with italics thrown in for flair.",
 	"publisher": "MahdiFirouzjaah",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
 	"categories": [
 		"Themes"
 	],
+	"icon": "./img/logo.png",
 	"author": {
 		"name": "Mahdi Firouzjaah",
 		"email": "mh.firouzjah@gmail.com",
