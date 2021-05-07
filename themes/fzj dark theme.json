@@ -54,8 +54,8 @@
 		"editor.foreground": "#abb2bf",
 		"editor.selectionBackground": "#3E4451",
 		"editor.lineHighlightBackground": "#323846",
-		"editor.findMatchBackground": "#3E4451",
-		"editor.findMatchHighlightBackground": "#3E4451",
+		"editor.findMatchBackground": "#42557B",
+		"editor.findMatchHighlightBackground": "#314365",
 		"editor.selectionHighlightBackground": "#ffffff10",
 		"editor.selectionHighlightBorder": "#dddddd",
 		"editor.wordHighlightBackground": "#d2e0ff2f",
@@ -708,7 +708,7 @@
 			"name": "python placeholder reset to normal string",
 			"scope": "constant.character.format.placeholder.other.python",
 			"settings": {
-				"foreground": "#91b875"
+				"foreground": "#d19a66"
 			}
 		},
 		{
@@ -1163,6 +1163,13 @@
 			"scope": "string.other.link.title.markdown,string.other.link.description.markdown",
 			"settings": {
 				"foreground": "#61afef"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {
+				"foreground": "#56b6c2"
 			}
 		},
 		{
