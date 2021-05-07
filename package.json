@@ -3,7 +3,7 @@
 	"displayName": "fzj-dark",
 	"description": "A VSCode dark theme with italics thrown in for flair.",
 	"publisher": "MahdiFirouzjaah",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
