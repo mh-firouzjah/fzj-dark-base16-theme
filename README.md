@@ -2,6 +2,8 @@
 
 A VSCode dark theme with italics thrown in for flair.
 
+- a gruvbox fork is available now!
+
 - screenshots:
   _python_
   ![python screenshot](./img/python.png)

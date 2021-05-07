@@ -26,6 +26,11 @@
 				"label": "fzj dark theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/fzj dark theme.json"
+			},
+			{
+				"label": "fzj gruvbox dark theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/fzj-gruvbox-dark.json"
 			}
 		]
 	}
